@@ -68,7 +68,8 @@ The goal is to **predict the type of forest cover** for different areas of land 
    ```bash
    jupyter notebook Forest\ Cover\ Type\ Classification.ipynb
 
-'''graphql
-  ├── Forest Cover Type Classification.ipynb   # Main notebook
-  ├── README.md                                # Project documentation
-  └── requirements.txt                         # Dependencies
+Repository Structure
+   ```bash
+   ├── Forest Cover Type Classification.ipynb   # Main notebook
+   ├── README.md                                # Project documentation
+   └── requirements.txt                         # Dependencies
